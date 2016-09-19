@@ -10,4 +10,6 @@ Um script simples pra listar todos os nerdcasts e facilitar o link de download.
 curl -sS https://raw.githubusercontent.com/diogocavilha/nerdcast/master/install.sh | sh
 ```
 
-Para ver a lista atualizada, basta digitar `nerdcast` no seu terminal
+Para ver a lista atualizada, basta digitar `nerdcast` no seu terminal.
+
+Obs: A lista gerada é gerenciada pelo comando `less`. Então você já ganha a paginação e os filtros nativos :)
