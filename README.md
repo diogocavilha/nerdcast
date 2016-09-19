@@ -1,6 +1,6 @@
 # Nerdcast
 
-Esse é pra quem é fã do nerdcast e usa linux =D
+Esse é pra quem é fã do nerdcast, usa linux e não quer sair do terminal =D
 
 Um script simples pra listar todos os nerdcasts e facilitar o link de download.
 
