@@ -1,4 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/diogocavilha/nerdcast.git ~/.nerdcast
-sudo ln -s ~/.nerdcast/nerdcast.sh /usr/local/bin/nerdcast
+touch ~/.nerdcast.sh 
+chmod +x ~/.nerdcast.sh
+curl https://raw.githubusercontent.com/diogocavilha/nerdcast/master/nerdcast.sh > ~/.nerdcast.sh 
+sudo ln -s ~/.nerdcast.sh /usr/local/bin/nerdcast
